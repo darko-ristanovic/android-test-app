@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">Oops!</string>
+    <string name="error_description">Something went wrong</string>
+    <string name="reload">Reload</string>
+    <string name="no_tags">No tags to show</string>
+</resources>
